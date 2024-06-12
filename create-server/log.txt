@@ -1,10 +1,18 @@
-1718134511077: New request recieved from ::ffff:127.0.0.1
-1718134511181: New request recieved from ::ffff:127.0.0.1
-1718134659457: New request recieved from ::ffff:127.0.0.1 at /
-1718134659533: New request recieved from ::ffff:127.0.0.1 at /favicon.ico
-1718134668524: New request recieved from ::ffff:127.0.0.1 at /contact
-1718134751059: New request recieved from ::ffff:127.0.0.1 at /contact
-1718134756855: New request recieved from ::ffff:127.0.0.1 at /about
-1718134760535: New request recieved from ::ffff:127.0.0.1 at /Hellp
-1718135583716: New request recieved from ::ffff:127.0.0.1 at /Hellp
-1718135585548: New request recieved from ::ffff:127.0.0.1 at /
+1718216072988: New request recieved at /about
+1718216170349: New request recieved at /about?myName=basit
+1718216370676: New request recieved at /about?myName=basit
+1718216439671: New request recieved at /about?myName=basit&id=1
+1718216624145: New request recieved at /about?myName=basit&id=1
+1718216628324: New request recieved at /about?myName=basit&id=1
+1718216629152: New request recieved at /about?myName=basit&id=1
+1718216694398: New request recieved at /about?myName=basit&age=25
+1718216943877: New request recieved at /
+1718216950709: New request recieved at /about
+1718217085547: New request recieved at /about
+1718217110991: New request recieved at /about
+1718217125532: New request recieved at /about?myName=basit
+1718217159843: New request recieved at /about?myName=basit
+1718217217324: New request recieved at /about?myName=basit
+1718217235614: New request recieved at /about?myName=basit
+1718217277074: New request recieved at /about?myName=basit
+1718217283285: New request recieved at /about?myName=BasitQayoom
